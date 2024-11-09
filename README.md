@@ -277,6 +277,17 @@ Outline of high-level architecture including backend (student information, trans
 - Deployed on AWS, Azure, or local HSTU servers with SSL certificates.
 - Automate repetitive tasks and ensure consistent environments for development and production.
 - Rollback plans in case of deployment issues.
+- Some key aspects of the maintenance phase in SDLC:
+  - Bug Fixing
+  - Enhancements
+  - Adaptation to changing environments
+  - Performance Optimization
+  - Security Updates
+  - Documentation
+  - User Support
+  - Backup and Recovery
+  - Regression Testing
+  - Version Control
 
 ---
 
@@ -317,5 +328,6 @@ The development of an online academic transcript distribution system for HSTU us
 - Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
 - Sommerville, Ian. *Software Engineering* (9th Edition)
 - Geeks for Geeks, [Software Engineering Requirements Engineering Process](https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/)
+- teachingagile, https://teachingagile.com
 - LucidChart, [Designing Website](https://lucid.app)
 - Canva Designing App
