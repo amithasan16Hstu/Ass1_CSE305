@@ -169,7 +169,7 @@ Key features identified from stakeholder requirements include:
 
 
 ### 3.1 Technology Stack
-- **Frontend**: React.js, Vue.js
+- **Frontend**: React.js
 - **Backend**: PHP Laravel for server-side logic
 - **Database**: MySQL
 - **Security**: Blockchain for authentication
