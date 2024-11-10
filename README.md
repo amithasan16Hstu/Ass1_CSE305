@@ -277,6 +277,14 @@ Outline of high-level architecture including backend (student information, trans
 - Deployed on AWS, Azure, or local HSTU servers with SSL certificates.
 - Automate repetitive tasks and ensure consistent environments for development and production.
 - Rollback plans in case of deployment issues.
+
+
+---
+
+## Maintenance and Continuous Improvement
+
+- Monitor system performance, fix bugs, and release updates regularly.
+- Address user feedback to improve the system.
 - Some key aspects of the maintenance phase in SDLC:
   - Bug Fixing
   - Enhancements
@@ -289,12 +297,8 @@ Outline of high-level architecture including backend (student information, trans
   - Regression Testing
   - Version Control
 
----
-
-## Maintenance and Continuous Improvement
-
-- Monitor system performance, fix bugs, and release updates regularly.
-- Address user feedback to improve the system.
+  ![Product Sales Line Chart Graph](https://github.com/user-attachments/assets/d1afe557-b959-4a86-be35-0373bb6d9681)
+## Fig 7.1 Approximate Maintenance Cost
 
 ##  **7.1 Time and Space Complexity (Approximately):**
 
