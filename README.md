@@ -49,6 +49,7 @@ Dinajpur-5200
 - [Fig 3.1 ER Diagram for System](#fig-31-er-diagram-for-system)
 - [Fig 4.1 Sprint Serial](#fig-41-sprint-serial)
 - [Fig 5.1 Testing Phase](#fig-51-testing-phase)
+- [Fig 7.1 Approximate Maintenance cost](#fig-71-approximate-maintenance-cost)
 - [Fig 9.1 Gantt Chart](#fig-91-gantt-chart)
 
 ## Tables
