@@ -50,6 +50,7 @@ Dinajpur-5200
 - [Fig 4.1 Sprint Serial](#fig-41-sprint-serial)
 - [Fig 5.1 Testing Phase](#fig-51-testing-phase)
 - [Fig 7.1 Approximate Maintenance cost](#fig-71-approximate-maintenance-cost)
+- [Fig 7.2 Software Quality Review](#fig-72-software-quality-review)
 - [Fig 9.1 Gantt Chart](#fig-91-gantt-chart)
 
 ## Tables
@@ -373,7 +374,10 @@ This estimation uses the **COCOMO cost modeling approach** for a medium-complexi
 |----------------------|---------------------------------------------------------------------|
 | **Space Complexity** | **O(n), where n represents the number of students, transcript requests, or blockchain entries.** |
 
+##  **7.3 Quality Review:**
 
+![photo_2024-11-19_15-19-14](https://github.com/user-attachments/assets/ea294ad8-5b9a-4673-ad97-f50071463a62)
+## Fig 7.2 Software Quality Review
 
 ---
 
