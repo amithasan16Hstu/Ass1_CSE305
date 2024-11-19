@@ -58,7 +58,10 @@ Dinajpur-5200
 - [Table 5.3 Test Case 3](#table-53-test-case-3)
 - [Table 5.4 Test Case 4](#table-54-test-case-4)
 - [Table 5.5 Test Case 5](#table-55-test-case-5)
-- [Table 7.1 Complexity](#table-71-complexity)
+- [Table 7.1 Total Approximate Cost](#table-71-total-approximate-cost)
+- [Table 7.2 Complexity](#table-72-complexity)
+
+
 
 
 ---
@@ -301,9 +304,26 @@ Outline of high-level architecture including backend (student information, trans
   ![Product Sales Line Chart Graph](https://github.com/user-attachments/assets/d1afe557-b959-4a86-be35-0373bb6d9681)
 ## Fig 7.1 Approximate Maintenance Cost
 
+## Table 7.1 Total Approximate Cost
+
+| **Category**                  | **Estimated Cost (BDT)** | **Description**                                                                                          |
+|-------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|
+| **Requirement Gathering**     | 10,000                  | Includes surveys, stakeholder meetings, and feasibility studies.                                         |
+| **Design and Architecture**   | 20,000                  | ER diagrams, system architecture, and front-end/back-end design.                                         |
+| **Development**               | 50,000                  | Coding, database integration, API development, and blockchain implementation for authentication.         |
+| **Testing**                   | 15,000                  | Includes unit testing, integration testing, system testing, user acceptance testing, and security tests. |
+| **Deployment**                | 10,000                  | Hosting on AWS/Azure/local server, SSL certificate, and production deployment.                           |
+| **Maintenance (Yearly)**      | 30,000                  | Bug fixes, system updates, user support, performance optimization, and security patches.                 |
+| **Documentation**             | 5,000                   | User manuals, technical documentation, and project reports.                                              |
+| **Training and Support**      | 8,000                   | Training administrative staff and providing user guides.                                                 |
+| **Miscellaneous Costs**       | 7,000                   | Additional unforeseen expenses such as third-party tools, services, or consultation.                     |
+
+| **Total Estimated Cost**      | **155,000 BDT**          | *(Excluding recurring yearly maintenance costs.)*                                                        |
+
+
 ##  **7.1 Time and Space Complexity (Approximately):**
 
-## Table 7.1 Complexity
+## Table 7.2 Complexity
 
 | **Time Complexity**  | **O(n), where n is the number of students or transcript requests.** |
 |----------------------|---------------------------------------------------------------------|
