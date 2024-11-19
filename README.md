@@ -303,25 +303,69 @@ Outline of high-level architecture including backend (student information, trans
 
   ![Product Sales Line Chart Graph](https://github.com/user-attachments/assets/d1afe557-b959-4a86-be35-0373bb6d9681)
 ## Fig 7.1 Approximate Maintenance Cost
+## 7.1 COCOMO Cost Estimation
+
+### Step 1: Estimate KLOC (Thousands of Lines of Code)
+Assume the system consists of the following:
+- **Frontend (React)**: ~4 KLOC
+- **Backend (Laravel)**: ~3 KLOC
+- **Database Scripts**: ~2 KLOC
+
+**Total KLOC** = 4 + 3 + 2 = **9 KLOC**
+
+---
+
+### Step 2: Effort Calculation
+Using the formula:  
+Effort (Person-Months) = 3.0 X (9)^1.12
+
+**Effort** = **35.145 person-months**
+
+---
+
+### Step 3: Development Time Calculation
+Using the formula:  
+Time (Months) = 2.5 X Effort^0.35
+
+**Time** = **8.68 months**
+
+---
+
+### Step 4: Cost Calculation
+Assume the average monthly salary of a developer is **30,000 BDT**.  
+
+Using the formula:  
+Cost (BDT) = Effort X Salary per Month
+
+**Cost** = 35.145 × 30,000 = **1054350 BDT**
+
+---
+
+### Final Results:
+- **Effort**: 35.145 person-months  
+- **Time**: 8.68 months  
+- **Cost**: 1,054,350 BDT  
+
+This estimation uses the **COCOMO cost modeling approach** for a medium-complexity project.
 
 ## Table 7.1 Total Approximate Cost
 
 | **Category**                  | **Estimated Cost (BDT)** | **Description**                                                                                          |
 |-------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Requirement Gathering**     | 10,000                  | Includes surveys, stakeholder meetings, and feasibility studies.                                         |
-| **Design and Architecture**   | 20,000                  | ER diagrams, system architecture, and front-end/back-end design.                                         |
-| **Development**               | 50,000                  | Coding, database integration, API development, and blockchain implementation for authentication.         |
-| **Testing**                   | 15,000                  | Includes unit testing, integration testing, system testing, user acceptance testing, and security tests. |
-| **Deployment**                | 10,000                  | Hosting on AWS/Azure/local server, SSL certificate, and production deployment.                           |
-| **Maintenance (Yearly)**      | 30,000                  | Bug fixes, system updates, user support, performance optimization, and security patches.                 |
-| **Documentation**             | 5,000                   | User manuals, technical documentation, and project reports.                                              |
-| **Training and Support**      | 8,000                   | Training administrative staff and providing user guides.                                                 |
-| **Miscellaneous Costs**       | 7,000                   | Additional unforeseen expenses such as third-party tools, services, or consultation.                     |
+| **Design and Architecture**   | 20,0000                  | ER diagrams, system architecture, and front-end/back-end design.                                         |
+| **Development**               | 50,0000                  | Coding, database integration, API development, and blockchain implementation for authentication.         |
+| **Testing**                   | 5,0000                  | Includes unit testing, integration testing, system testing, user acceptance testing, and security tests. |
+| **Deployment**                | 94000                  | Hosting on AWS/Azure/local server, SSL certificate, and production deployment.                           |
+| **Maintenance (Yearly)**      | 25,0000                  | Bug fixes, system updates, user support, performance optimization, and security patches.                 |
+| **Documentation**             | 2,000                   | User manuals, technical documentation, and project reports.                                              |
+| **Training and Support**      | 46350                  | Training administrative staff and providing user guides.                                                 |
+| **Miscellaneous Costs**       | 2,000                   | Additional unforeseen expenses such as third-party tools, services, or consultation.                     |
 
-| **Total Estimated Cost**      | **155,000 BDT**          | *(Excluding recurring yearly maintenance costs.)*                                                        |
+| **Total Estimated Cost**      | **105,4350 BDT**          | *(Excluding recurring yearly maintenance costs.)*                                                        |
 
 
-##  **7.1 Time and Space Complexity (Approximately):**
+##  **7.2 Time and Space Complexity (Approximately):**
 
 ## Table 7.2 Complexity
 
