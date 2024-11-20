@@ -393,8 +393,9 @@ The development of an online academic transcript distribution system for HSTU us
 
 ## References
 - Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScOocRsYNOBFUCrXKw5-0LncaTc8EF4_HUF_1I7ihcfhxUFyg/viewform
-- Sommerville, Ian. *Software Engineering* (9th Edition)
+- Sommerville, Ian. *Software Engineering* (10th Edition)
 - Geeks for Geeks, [Software Engineering Requirements Engineering Process](https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/)
 - teachingagile, https://teachingagile.com
 - LucidChart, [Designing Website](https://lucid.app)
-- Canva Designing App
+- [SDLC Overview - TutorialsPoint](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
+
