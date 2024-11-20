@@ -31,6 +31,10 @@ Dinajpur-5200
 - [Key Benefits of Using Agile for This Project](#key-benefits-of-using-agile-for-this-project)
 - [Conclusion](#conclusion)
 - [References](#references)
+---
+## Videos
+- [Video 1.1 Project Overview](#video-11-project-overview)
+---
 
 ## Figures
 - [Fig 1.1 Graphical Overview of Proposed System](#fig-11-graphical-overview-of-proposed-system)
@@ -77,6 +81,8 @@ Dinajpur-5200
 
 In today's fast-paced digital world, efficient academic services are crucial to a university's operations. The need for digitalization of academic transcripts is increasingly becoming essential for universities. This project involves designing and implementing an online system to automate and streamline the distribution of academic transcripts at Hajee Mohammad Danesh Science and Technology University (HSTU). The system is developed using the Agile Software Development Life Cycle (SDLC) to ensure flexibility, transparency, and continuous improvement during the development process.
 
+https://github.com/user-attachments/assets/74de9e3e-06cb-407b-bebd-05e418164ca0
+## Video 1.1 Project Overview
 ![photo_2024-11-20_14-09-53](https://github.com/user-attachments/assets/d245db78-7dbe-4a1f-8c91-8545174d29c2)
 ## Fig 1.1 Graphical Overview of Proposed System 
 ![photo_2024-10-16_07-28-30](https://github.com/user-attachments/assets/078d94db-1793-4441-9bc8-6d358efc7423)
