@@ -1,22 +1,35 @@
 <p align="center">
-  <img src="HSTU_Logo.png" alt="HSTU Logo" width="250" height="300">
+  <img src="HSTU.png" alt="HSTU Logo" width="250" height="300">
 </p>
-# HSTU Online Academic Transcript Distribution System
+<h2 align="center">
+  <b> HSTU Online Academic Transcript Distribution System</b>
+</h2>
+<h3 align="center">
+  <br>
+  <b>Level-3 Semester-I Project Report</b>  
+</h3>
+<h3 align="center">
+  Course Code: CSE 305 
+  Course Title: Software Engineering
+</h3>
+<br>
+<h3 align="center">
+  Submitted by 
+</h3>
+<h3 align="center">
+<b>Amit Hasan Sikder (ID: 2102043) </b> </h3>
+<br>
 
-## Level-3 Semester-I Project Report
-**Course Code**: CSE 305  
-**Course Title**: Software Engineering  
+<h3 align="center">
+  Submitted To 
+</h3>
 
-**Submitted by**  
-Amit Hasan Sikder (ID: 2102043)  
-
-**Submitted to**  
-Pankaj Bhowmik  
-Lecturer, Department of CSE  
-
-Department of Computer Science and Engineering  
-Hajee Mohammad Danesh Science and Technology University  
-Dinajpur-5200
+<h3 align="center"><b>Pankaj Bhowmik  </b></h3>
+<h3 align="center"><b>Lecturer, Department of CSE</b></h3>
+<br>
+<h3 align="center"> <b>Department of Computer Science and Engineering </b></h3>
+<h3 align="center"><b>Hajee Mohammad Danesh Science and Technology University  
+Dinajpur-5200</b></h3>
 
 ---
 
