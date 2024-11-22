@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="HSTU_Logo.png" alt="HSTU Logo" width="250" height="300">
+</p>
 # HSTU Online Academic Transcript Distribution System
 
 ## Level-3 Semester-I Project Report
