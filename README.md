@@ -1,9 +1,9 @@
 <p align="center">
   <img src="HSTU.png" alt="HSTU Logo" width="250" height="300">
 </p>
-<h2 align="center">
+<h1 align="center">
   <b> HSTU Online Academic Transcript Distribution System</b>
-</h2>
+</h1>
 <h3 align="center">
   <br>
   <b>Level-3 Semester-I Project Report</b>  
